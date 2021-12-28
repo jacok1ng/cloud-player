@@ -1,5 +1,7 @@
+import { StyledMusicLibrary } from "./MusicLibrary.style"
+
 const MusicLibrary = () => {
-  return <div></div>
+  return <StyledMusicLibrary></StyledMusicLibrary>
 }
 
 export default MusicLibrary
