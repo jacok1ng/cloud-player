@@ -15,7 +15,7 @@ const Player = () => {
       <Song />
       <Slider />
       <Menu />
-      <audio src={"../assets/music/Waybackwhen.mp3"} ref={ref} />
+      <audio src={"../assets/music/Waybackwhen.mp3"} />
     </StyledPlayer>
   )
 }
