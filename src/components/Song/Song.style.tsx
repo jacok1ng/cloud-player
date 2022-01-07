@@ -1,8 +1,8 @@
 import styled from "styled-components"
 
 export const ImageHolder = styled.img`
-  height: 20rem;
-  width: 20rem;
+  height: 28rem;
+  width: 28rem;
   border-radius: 50%;
   background-position: center;
   background-size: cover;
